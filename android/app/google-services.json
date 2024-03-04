@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565339751536",
+    "project_id": "loginwithdifferentonlinemedia",
+    "storage_bucket": "loginwithdifferentonlinemedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565339751536:android:a891e0103d5cdfdee8e0b5",
+        "android_client_info": {
+          "package_name": "com.example.login_with_different_online_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565339751536-rie7ai28hhk7t8he702ai5doora0u04p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vKsh3LisZo1w_OQ2vZ3WvOj-GUEVn2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565339751536-rie7ai28hhk7t8he702ai5doora0u04p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
